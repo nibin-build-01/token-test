@@ -11,7 +11,7 @@
     ]
   },
   "summary": {
-    "exportedCount": 73,
+    "exportedCount": 72,
     "exportedAliasCount": 0,
     "skippedCount": 0
   },
@@ -21,10 +21,6 @@
         "background": {
           "type": "color",
           "value": "#ffffff"
-        },
-        "error": {
-          "type": "color",
-          "value": "#ff3737"
         },
         "neutral": {
           "type": "color",
@@ -40,7 +36,7 @@
         },
         "text": {
           "type": "color",
-          "value": "#333333"
+          "value": "#000000"
         }
       },
       "radius": {
